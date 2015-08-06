@@ -1,6 +1,6 @@
 #Screen Message Hider
 
-Forum thread: ~~forum.kerbalspaceprogram.com/~~
+Forum thread: forum.kerbalspaceprogram.com/threads/130759
 
 ScreenMessageHider is a mod that hides screen messages that don't normally get hidden, like time warp notifications, when you hide the UI with F2
 
